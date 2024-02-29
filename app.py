@@ -9,4 +9,6 @@ de code informatique.
  
 #test_GitAheadN2 29.02.2024 page2
 
+#2+2 = 4
+
 
