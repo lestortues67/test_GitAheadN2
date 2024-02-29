@@ -10,6 +10,6 @@ de code informatique.
 #test_GitAheadN2 29.02.2024
 #bla bla bla 
 #et voilà bibi le koala 
-#mange du chocolat
+#n'aime pas le chocolat 
 
 
